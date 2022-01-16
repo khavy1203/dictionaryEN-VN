@@ -1,0 +1,23 @@
+E:\container code\c#\ĐỒ ÁN\ungdung_tudien_anhviet\ungdung_tudien_anhviet\obj\Debug\ungdung_tudien_anhviet.Form1.resources
+E:\container code\c#\ĐỒ ÁN\ungdung_tudien_anhviet\ungdung_tudien_anhviet\obj\Debug\ungdung_tudien_anhviet.Properties.Resources.resources
+E:\container code\c#\ĐỒ ÁN\ungdung_tudien_anhviet\ungdung_tudien_anhviet\obj\Debug\ungdung_tudien_anhviet.csproj.GenerateResource.cache
+E:\container code\c#\ĐỒ ÁN\ungdung_tudien_anhviet\ungdung_tudien_anhviet\obj\Debug\ungdung_tudien_anhviet.csproj.CoreCompileInputs.cache
+E:\container code\c#\ĐỒ ÁN\ungdung_tudien_anhviet\ungdung_tudien_anhviet\bin\Debug\ungdung_tudien_anhviet.exe.config
+E:\container code\c#\ĐỒ ÁN\ungdung_tudien_anhviet\ungdung_tudien_anhviet\bin\Debug\ungdung_tudien_anhviet.exe
+E:\container code\c#\ĐỒ ÁN\ungdung_tudien_anhviet\ungdung_tudien_anhviet\bin\Debug\ungdung_tudien_anhviet.pdb
+E:\container code\c#\ĐỒ ÁN\ungdung_tudien_anhviet\ungdung_tudien_anhviet\obj\Debug\ungdung_tudien_anhviet.exe
+E:\container code\c#\ĐỒ ÁN\ungdung_tudien_anhviet\ungdung_tudien_anhviet\obj\Debug\ungdung_tudien_anhviet.pdb
+E:\container code\c#\ĐỒ ÁN\ungdung_tudien_anhviet\ungdung_tudien_anhviet\obj\Debug\ungdung_tudien_anhviet.add.resources
+E:\container code\c#\ĐỒ ÁN\ungdung_tudien_anhviet\ungdung_tudien_anhviet\obj\Debug\ungdung_tudien_anhviet.filetext.resources
+E:\container code\c#\ĐỒ ÁN TIN HỌC\ungdung_tudien_anhviet\ungdung_tudien_anhviet\bin\Debug\ungdung_tudien_anhviet.exe.config
+E:\container code\c#\ĐỒ ÁN TIN HỌC\ungdung_tudien_anhviet\ungdung_tudien_anhviet\bin\Debug\ungdung_tudien_anhviet.exe
+E:\container code\c#\ĐỒ ÁN TIN HỌC\ungdung_tudien_anhviet\ungdung_tudien_anhviet\bin\Debug\ungdung_tudien_anhviet.pdb
+E:\container code\c#\ĐỒ ÁN TIN HỌC\ungdung_tudien_anhviet\ungdung_tudien_anhviet\obj\Debug\ungdung_tudien_anhviet.add.resources
+E:\container code\c#\ĐỒ ÁN TIN HỌC\ungdung_tudien_anhviet\ungdung_tudien_anhviet\obj\Debug\ungdung_tudien_anhviet.filetext.resources
+E:\container code\c#\ĐỒ ÁN TIN HỌC\ungdung_tudien_anhviet\ungdung_tudien_anhviet\obj\Debug\ungdung_tudien_anhviet.Form1.resources
+E:\container code\c#\ĐỒ ÁN TIN HỌC\ungdung_tudien_anhviet\ungdung_tudien_anhviet\obj\Debug\ungdung_tudien_anhviet.Properties.Resources.resources
+E:\container code\c#\ĐỒ ÁN TIN HỌC\ungdung_tudien_anhviet\ungdung_tudien_anhviet\obj\Debug\ungdung_tudien_anhviet.csproj.GenerateResource.cache
+E:\container code\c#\ĐỒ ÁN TIN HỌC\ungdung_tudien_anhviet\ungdung_tudien_anhviet\obj\Debug\ungdung_tudien_anhviet.csproj.CoreCompileInputs.cache
+E:\container code\c#\ĐỒ ÁN TIN HỌC\ungdung_tudien_anhviet\ungdung_tudien_anhviet\obj\Debug\ungdung_tudien_anhviet.exe
+E:\container code\c#\ĐỒ ÁN TIN HỌC\ungdung_tudien_anhviet\ungdung_tudien_anhviet\obj\Debug\ungdung_tudien_anhviet.pdb
+E:\container code\c#\ĐỒ ÁN TIN HỌC\ungdung_tudien_anhviet\ungdung_tudien_anhviet\obj\Debug\ungdung_tudien_anhviet.csprojAssemblyReference.cache
